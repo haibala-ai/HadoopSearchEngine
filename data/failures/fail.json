@@ -1,0 +1,554 @@
+[
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2020/11/6-教字202007号《中国科学技术大学校院系领导听课制度管理规定试行》.pdf",
+        "path": "/files/6-教字202007号《中国科学技术大学校院系领导听课制度管理规定试行》.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/6-教字202007号《中国科学技术大学校院系领导听课制度管理规定试行》.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2020/11/2-教字201727号-中国科学技术大学本科生课程修读管理办法.pdf",
+        "path": "/files/2-教字201727号-中国科学技术大学本科生课程修读管理办法.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/2-教字201727号-中国科学技术大学本科生课程修读管理办法.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2023/11/教字2023-29号-中国科学技术大学本科生个性化学习管理办法.pdf",
+        "path": "/files/教字2023-29号-中国科学技术大学本科生个性化学习管理办法.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字2023-29号-中国科学技术大学本科生个性化学习管理办法.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2023/07/202318号-《中国科学技术大学本科生课程考核管理办法（试行）》.pdf",
+        "path": "/files/202318号-《中国科学技术大学本科生课程考核管理办法（试行）》.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2024/07/教字202419号-关于思想政治理论课执行方案的通知.pdf",
+        "path": "/files/教字202419号-关于思想政治理论课执行方案的通知.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202419号-关于思想政治理论课执行方案的通知.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2022/09/教字2022-27号-劳动教育课实施细则.pdf",
+        "path": "/files/教字2022-27号-劳动教育课实施细则.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字2022-27号-劳动教育课实施细则.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/09/教字202528号-关于印发劳动教育课实施细则的通知.pdf",
+        "path": "/files/教字202528号-关于印发劳动教育课实施细则的通知.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2024/06/教字202335号-艺术实践课程实施细则.pdf",
+        "path": "/files/教字202335号-艺术实践课程实施细则.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202335号-艺术实践课程实施细则.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/09/教字202529号-关于印发艺术实践课程实施细则的通知.pdf",
+        "path": "/files/教字202529号-关于印发艺术实践课程实施细则的通知.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202529号-关于印发艺术实践课程实施细则的通知.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/01/教字202501号-中国科学技术大学公共教室管理办法（修订）.pdf",
+        "path": "/files/教字202501号-中国科学技术大学公共教室管理办法（修订）.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202501号-中国科学技术大学公共教室管理办法（修订）.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/11/教字202536号-关于印发《中国科学技术大学本科课程组建设实施办法》的通知.pdf",
+        "path": "/files/教字202536号-关于印发《中国科学技术大学本科课程组建设实施办法》的通知.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202536号-关于印发《中国科学技术大学本科课程组建设实施办法》的通知.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2023/12/202330号-关于印发《中国科学技术大学本科生“科学与社会”研讨课实施细则（试行）》的通知.pdf",
+        "path": "/files/202330号-关于印发《中国科学技术大学本科生“科学与社会”研讨课实施细则（试行）》的通知.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/202330号-关于印发《中国科学技术大学本科生“科学与社会”研讨课实施细则（试行）》的通知.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2021/05/202113号-《中国科学技术大学本研贯通课程管理办法（暂行）》.pdf",
+        "path": "/files/202113号-《中国科学技术大学本研贯通课程管理办法（暂行）》.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/202113号-《中国科学技术大学本研贯通课程管理办法（暂行）》.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2021/11/202138号-中国科学技术大学实验教学管理条例（修订版）.pdf",
+        "path": "/files/202138号-中国科学技术大学实验教学管理条例（修订版）.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/202138号-中国科学技术大学实验教学管理条例（修订版）.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/06/教字202514号-中国科学技术大学学生实验守则.pdf",
+        "path": "/files/教字202514号-中国科学技术大学学生实验守则.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202514号-中国科学技术大学学生实验守则.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/09/教字202531号-中国科学技术大学本科毕业论文（设计）管理办法（修订）.pdf",
+        "path": "/files/教字202531号-中国科学技术大学本科毕业论文（设计）管理办法（修订）.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202531号-中国科学技术大学本科毕业论文（设计）管理办法（修订）.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2023/11/202326号-中国科学技术大学“大学生研究计划”管理办法（修订）.pdf",
+        "path": "/files/202326号-中国科学技术大学“大学生研究计划”管理办法（修订）.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/202326号-中国科学技术大学“大学生研究计划”管理办法（修订）.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2021/11/202139号-中国科学技术大学本科教学实习管理条例（修订版）.pdf",
+        "path": "/files/202139号-中国科学技术大学本科教学实习管理条例（修订版）.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/202139号-中国科学技术大学本科教学实习管理条例（修订版）.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2020/11/4-教字201148号-中国科学技术大学“大学生创新创业训练计划”管理办法.pdf",
+        "path": "/files/4-教字201148号-中国科学技术大学“大学生创新创业训练计划”管理办法.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/4-教字201148号-中国科学技术大学“大学生创新创业训练计划”管理办法.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/04/202509号-中国科学技术大学“大学生创新训练计划”经费使用管理办法.pdf",
+        "path": "/files/202509号-中国科学技术大学“大学生创新训练计划”经费使用管理办法.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/202509号-中国科学技术大学“大学生创新训练计划”经费使用管理办法.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/01/教字〔2025〕2号-中国科学技术大学本科生学科竞赛管理办法.pdf",
+        "path": "/files/教字〔2025〕2号-中国科学技术大学本科生学科竞赛管理办法.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字〔2025〕2号-中国科学技术大学本科生学科竞赛管理办法.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2020/11/1-中国科学技术大学本科教学研究项目实施办法（2011.5）.pdf",
+        "path": "/files/1-中国科学技术大学本科教学研究项目实施办法（2011.5）.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/1-中国科学技术大学本科教学研究项目实施办法（2011.5）.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2021/04/教字202105号-中国科学技术大学本科质量工程经费管理暂行办法（修订）.pdf",
+        "path": "/files/教字202105号-中国科学技术大学本科质量工程经费管理暂行办法（修订）.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/教字202105号-中国科学技术大学本科质量工程经费管理暂行办法（修订）.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2021/12/关于印发《中国科学技术大学教材管理规定》的通知.pdf",
+        "path": "/files/关于印发《中国科学技术大学教材管理规定》的通知.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/关于印发《中国科学技术大学教材管理规定》的通知.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2022/01/关于印发《中国科学技术大学教材建设管理和奖励办法（试行）的通知》.pdf",
+        "path": "/files/关于印发《中国科学技术大学教材建设管理和奖励办法（试行）的通知》.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/关于印发《中国科学技术大学教材建设管理和奖励办法（试行）的通知》.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://www.teach.ustc.edu.cn//_upload/tpl/0e/e1/3809/template3809/uploadfiles/file/sqb.docx",
+        "path": "/files/sqb.docx",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/sqb.docx",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://iat.ustc.edu.cn//Uploads/Attachment/2016-08-08/14706227958296.pdf",
+        "path": "/files/14706227958296.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://iat.ustc.edu.cn//Uploads/Attachment/2016-08-08/14706227284589.pdf",
+        "path": "/files/14706227284589.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://wp.ustc.edu.cn/_temp/e0f1a262-7e5f-4bc9-a207-e84a93ffd2a7.doc",
+        "path": "/files/e0f1a262-7e5f-4bc9-a207-e84a93ffd2a7.doc",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/e0f1a262-7e5f-4bc9-a207-e84a93ffd2a7.doc",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://sse.ustc.edu.cn//_upload/article/files/5c/d2/d8208ceb4091b4e0624308b74f21/ba45f543-29ab-4cfa-9506-e8034c404101.pdf",
+        "path": "/files/ba45f543-29ab-4cfa-9506-e8034c404101.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sse.ustc.edu.cn//_upload/article/files/5e/f0/f486780c4e1c9618a309a02e4ed5/8453cf43-fc6f-414a-8508-234eb0b7f58e.pdf",
+        "path": "/files/8453cf43-fc6f-414a-8508-234eb0b7f58e.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/8453cf43-fc6f-414a-8508-234eb0b7f58e.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://sse.ustc.edu.cn//_upload/article/files/2a/69/8dd82f984f4bbf7d33b4dc2e8421/011508fb-678b-4a92-97f9-71afd62f7beb.doc",
+        "path": "/files/011508fb-678b-4a92-97f9-71afd62f7beb.doc",
+        "error_reason": "解析过程异常 (.doc): Antiword 执行失败 (return code 1)",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://sse.ustc.edu.cn//_upload/article/files/b0/5c/f2deec3744d4a493d44333f8744d/0d07043c-4a9a-422e-b163-ee11a2d931cc.doc",
+        "path": "/files/0d07043c-4a9a-422e-b163-ee11a2d931cc.doc",
+        "error_reason": "解析过程异常 (.doc): Antiword 执行失败 (return code 1)",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://sse.ustc.edu.cn//_upload/article/files/7d/a0/8c89d6174e128d14afb676e7c1cb/33147da6-edb4-42a7-b22b-2c5f334d6b9f.doc",
+        "path": "/files/33147da6-edb4-42a7-b22b-2c5f334d6b9f.doc",
+        "error_reason": "解析过程异常 (.doc): Antiword 执行失败 (return code 1)",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202201/24/202201241113571276.pdf",
+        "path": "/files/202201241113571276.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202201/24/202201241258548933.pdf",
+        "path": "/files/202201241258548933.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202201/24/202201241303429600.pdf",
+        "path": "/files/202201241303429600.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202206/27/202206271403299188.pdf",
+        "path": "/files/202206271403299188.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202206/27/202206271408069007.pdf",
+        "path": "/files/202206271408069007.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202201/24/202201241414340772.pdf",
+        "path": "/files/202201241414340772.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202201/24/202201241142495398.pdf",
+        "path": "/files/202201241142495398.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202109/08/202109081425595791.pdf",
+        "path": "/files/202109081425595791.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202109/08/202109081423265891.pdf",
+        "path": "/files/202109081423265891.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://sz.ustc.edu.cn//upload/202202/28/202202281608568675.doc",
+        "path": "/files/202202281608568675.doc",
+        "error_reason": "解析过程异常 (.doc): Antiword 执行失败 (return code 1)",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//_upload/article/files/f8/51/4202e1da4aaa87087f1a6e21b9ee/48ccaa37-5d43-426d-9c45-07bea50be0b0.doc",
+        "path": "/files/48ccaa37-5d43-426d-9c45-07bea50be0b0.doc",
+        "error_reason": "解析过程异常 (.doc): Antiword 执行失败 (return code 1)",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1724031888293/0f9e416a8a694664b39c82c4b405e57f.docx",
+        "path": "/files/0f9e416a8a694664b39c82c4b405e57f.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1747040706010/1747040706010-842110.docx",
+        "path": "/files/1747040706010-842110.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1743044194731/1743044209181-906340.docx",
+        "path": "/files/1743044209181-906340.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1721698175310/45cb93525ed9425f87d3513f2e263c6e.docx",
+        "path": "/files/45cb93525ed9425f87d3513f2e263c6e.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1721698230102/0a39a57853a746db899e34e1e7970378.docx",
+        "path": "/files/0a39a57853a746db899e34e1e7970378.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1721697080905/b8f8a02ecf0b42efbd5357afc175c92d.docx",
+        "path": "/files/b8f8a02ecf0b42efbd5357afc175c92d.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1721698033826/e130cfbc821341e5bd135a6bbde8f885.docx",
+        "path": "/files/e130cfbc821341e5bd135a6bbde8f885.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1721698092228/7779a8403b8349a98b8bfae59ee754a6.docx",
+        "path": "/files/7779a8403b8349a98b8bfae59ee754a6.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1709015897428/9c8604dac5fd482f8273ee674a4414c3.docx",
+        "path": "/files/9c8604dac5fd482f8273ee674a4414c3.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/1701220165232/7dfa6ca9284e44629b79886542cd1316.docx",
+        "path": "/files/7dfa6ca9284e44629b79886542cd1316.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://cs.ustc.edu.cn//static/upload/article/file/f7db02213f904adb8a9813a96fb1ddc5.pdf",
+        "path": "/files/f7db02213f904adb8a9813a96fb1ddc5.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/f7db02213f904adb8a9813a96fb1ddc5.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2023/03/2210-中国科大-香港城市大学学生交换协议-22.5.161.pdf",
+        "path": "/files/2210-中国科大-香港城市大学学生交换协议-22.5.161.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2023/03/2215-中国科大-香港中文大学合作备忘录-22.8.51.pdf",
+        "path": "/files/2215-中国科大-香港中文大学合作备忘录-22.8.51.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2023/03/4.-中科大-剑桥大学合作交流备忘录1.pdf",
+        "path": "/files/4.-中科大-剑桥大学合作交流备忘录1.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2023/03/2010中科大-伍伦贡大学合作备忘录1.pdf",
+        "path": "/files/2010中科大-伍伦贡大学合作备忘录1.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2023/03/2011中科大-伍伦贡大学博士生联合培养1.pdf",
+        "path": "/files/2011中科大-伍伦贡大学博士生联合培养1.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2021/01/资助证明模板（申请签证用）2023.10.doc",
+        "path": "/files/资助证明模板（申请签证用）2023.10.doc",
+        "error_reason": "解析过程异常 (.doc): Antiword 执行失败 (return code 1)",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/./tzgg/202406/P020240614510870488295.pdf",
+        "path": "/files/P020240614510870488295.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/P020240614510870488295.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2020/09/外国人体检表.pdf",
+        "path": "/files/外国人体检表.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2020/09/《被授权单位邀请函》的来访邀请模板-1.pdf",
+        "path": "/files/《被授权单位邀请函》的来访邀请模板-1.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2020/09/新闻报道申报及审核流程.pdf",
+        "path": "/files/新闻报道申报及审核流程.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://oic.ustc.edu.cn/wp-content/uploads/2020/09/中国科学技术大学学生出国（境）管理实施细则.pdf",
+        "path": "/files/中国科学技术大学学生出国（境）管理实施细则.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&showname=知识产权政务服务事项办事指南（第二版）.pdf&filename=00308399e6ba4ba7971f5df7dba4b3e0.pdf",
+        "path": "/files/downfile.jsp?classid=0&showname=知识产权政务服务事项办事指南（第二版）.pdf&filename=00308399e6ba4ba7971f5df7dba4b3e0.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/downfile.jsp?classid=0&showname=知识产权政务服务事项办事指南（第二版）.pdf&filename=00308399e6ba4ba7971f5df7dba4b3e0.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "http://young.ustc.edu.cn/xzzx/xzzx1/201805/P020180505308558905682.docx",
+        "path": "/files/P020180505308558905682.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "http://young.ustc.edu.cn/xzzx/xzzx1/201805/P020180506332904172124.pdf",
+        "path": "/files/P020180506332904172124.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/P020180506332904172124.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "http://young.ustc.edu.cn/xzzx/xzzx1/201709/P020170925526222295537.pdf",
+        "path": "/files/P020170925526222295537.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/P020170925526222295537.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://press.ustc.edu.cn//_upload/article/files/42/cd/a46c4ad7433691be756549946e35/bbc5649b-feed-4c9e-b117-8319e92e4407.pdf",
+        "path": "/files/bbc5649b-feed-4c9e-b117-8319e92e4407.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://bwc.ustc.edu.cn//_upload/article/files/86/1e/477152684babb3d2e81c746bcad0/3d6773eb-a1b1-47d9-b73e-87c6dc36173b.pdf",
+        "path": "/files/3d6773eb-a1b1-47d9-b73e-87c6dc36173b.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/1757756206443/1757756382605-703054.pdf",
+        "path": "/files/1757756382605-703054.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/picture/d6db7cd03a3548db9c673f31eff0f1e4.pdf",
+        "path": "/files/d6db7cd03a3548db9c673f31eff0f1e4.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/1753263137590/1753263142886-341165.pdf",
+        "path": "/files/1753263142886-341165.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/1753263163168/1753263166136-636755.pdf",
+        "path": "/files/1753263166136-636755.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/1637230702245/f3117da1bdd34769974de1becf55c69d.pdf",
+        "path": "/files/f3117da1bdd34769974de1becf55c69d.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/1699514704309/1ae4c326f09e4752bc4fba5d142e71dd.pdf",
+        "path": "/files/1ae4c326f09e4752bc4fba5d142e71dd.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/7.pdf",
+        "path": "/files/7.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/picture/15d4a8f96d544d0ab833ad9ae53ef0cc.pdf",
+        "path": "/files/15d4a8f96d544d0ab833ad9ae53ef0cc.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/be659bea275840af8a0f62d6ea572680.pdf",
+        "path": "/files/be659bea275840af8a0f62d6ea572680.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/1757238685596/1757238894622-503520.pdf",
+        "path": "/files/1757238894622-503520.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/1743044194731/1743044209181-906340.docx",
+        "path": "/files/1743044209181-906340.docx",
+        "error_reason": "解析过程异常 (.docx): DOCX文件损坏: File is not a zip file",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/2006053005.doc",
+        "path": "/files/2006053005.doc",
+        "error_reason": "解析过程异常 (.doc): 'utf-8' codec can't decode byte 0xed in position 3198: invalid continuation byte",
+        "failure_type": "RuntimeError"
+    },
+    {
+        "url": "http://gradschool.ustc.edu.cn:80/static/oldsite/ylb/material/zyxw/wdxz/6.doc",
+        "path": "/files/6.doc",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/6.doc",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/picture/2581ca92250a4e87a7be59b1dffbfb4c.pdf",
+        "path": "/files/2581ca92250a4e87a7be59b1dffbfb4c.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://gradschool.ustc.edu.cn//static/upload/article/file/%E9%99%84%E4%BB%B62%EF%BC%9A%E7%AC%AC%E5%9B%9B%E8%BD%AE%E5%AD%A6%E7%A7%91%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E5%8F%8A%E6%9C%89%E5%85%B3%E8%AF%B4%E6%98%8E.pdf",
+        "path": "/files/%E9%99%84%E4%BB%B62%EF%BC%9A%E7%AC%AC%E5%9B%9B%E8%BD%AE%E5%AD%A6%E7%A7%91%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E5%8F%8A%E6%9C%89%E5%85%B3%E8%AF%B4%E6%98%8E.pdf",
+        "error_reason": "文件路径不存在: /home/aibala/Project/HadoopSearchEngine/data/raw/files/%E9%99%84%E4%BB%B62%EF%BC%9A%E7%AC%AC%E5%9B%9B%E8%BD%AE%E5%AD%A6%E7%A7%91%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E5%8F%8A%E6%9C%89%E5%85%B3%E8%AF%B4%E6%98%8E.pdf",
+        "failure_type": "FileNotFound"
+    },
+    {
+        "url": "https://finance.ustc.edu.cn//_upload/article/files/7b/40/93b3ec064131a2248384bd31eefd/b3ca75a9-2c23-4794-9bda-999926a1486c.pdf",
+        "path": "/files/b3ca75a9-2c23-4794-9bda-999926a1486c.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://finance.ustc.edu.cn//_upload/article/files/aa/8f/c805846a42ef8185089830e98035/3c49140f-9c02-4176-ae7c-b1bf0207afb7.pdf",
+        "path": "/files/3c49140f-9c02-4176-ae7c-b1bf0207afb7.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://finance.ustc.edu.cn//_upload/article/files/84/f5/07176e5444b5905739bdd767f252/aefdc120-649d-4800-b396-aa846a14ce6f.pdf",
+        "path": "/files/aefdc120-649d-4800-b396-aa846a14ce6f.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    },
+    {
+        "url": "https://finance.ustc.edu.cn//_upload/article/files/6a/00/434ae1c64f6fb045b53ebd449928/1c4d9a3b-6ba6-43eb-82c5-b20ca3bd7779.pdf",
+        "path": "/files/1c4d9a3b-6ba6-43eb-82c5-b20ca3bd7779.pdf",
+        "error_reason": "Extraction returned empty content",
+        "failure_type": "EmptyContent"
+    }
+]

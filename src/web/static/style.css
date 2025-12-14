@@ -1,0 +1,134 @@
+/* ================= 全局基础 ================= */
+body {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* 渐变文字效果 */
+.text-gradient {
+    background: linear-gradient(45deg, #0d6efd, #0dcaf0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* 顶部导航毛玻璃效果 */
+.glass-effect {
+    background: rgba(var(--bs-body-bg-rgb), 0.85);
+    backdrop-filter: blur(10px);
+}
+
+/* 搜索框美化 */
+.search-bar-wrapper {
+    background-color: var(--bs-body-bg);
+    border: 1px solid var(--bs-border-color);
+}
+.search-bar-wrapper:focus-within {
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25) !important;
+    border-color: #86b7fe;
+}
+
+/* ================= 高亮样式 (Requirement 1) ================= */
+.highlight {
+    background-color: rgba(255, 193, 7, 0.4); /* 半透明黄色 */
+    color: inherit;
+    font-weight: bold;
+    border-radius: 2px;
+    padding: 0 2px;
+    box-decoration-break: clone;
+}
+
+/* 深色模式下的高亮微调 */
+[data-bs-theme="dark"] .highlight {
+    background-color: rgba(255, 193, 7, 0.6);
+    color: #fff;
+}
+
+/* ================= 结果卡片 ================= */
+.result-card {
+    background-color: var(--bs-body-bg); /* 跟随主题变色 */
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 1px solid var(--bs-border-color-translucent) !important;
+}
+
+.result-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+/* URL 文字颜色适配 */
+.url-text cite {
+    color: #198754; /* 绿色 */
+}
+[data-bs-theme="dark"] .url-text cite {
+    color: #20c997; /* 亮绿色 */
+}
+
+/* ================= 网格视图特定样式 (Requirement 2) ================= */
+
+/* 列表模式：文本显示 3 行 */
+.snippet {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1.6;
+}
+
+/* 网格模式 (.view-mode-grid) 下的样式调整 */
+.view-mode-grid .snippet {
+    -webkit-line-clamp: 4; /* 网格模式下文字可以多一点，或者更少，看喜好 */
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.view-mode-grid .url-text {
+    /* 网格模式下隐藏 URL 长链接，保持整洁 */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* 按钮图标 */
+.btn-icon {
+    border: none;
+    background: transparent;
+    color: var(--bs-body-color);
+    font-size: 1.2rem;
+    transition: transform 0.2s;
+}
+.btn-icon:hover {
+    transform: rotate(15deg);
+    color: var(--bs-primary);
+}
+
+/* ================= 分页样式优化 ================= */
+.page-link {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    transition: all 0.2s;
+}
+
+/* 激活状态 */
+.page-item.active .page-link {
+    background: linear-gradient(45deg, #0d6efd, #0dcaf0);
+    border: none;
+    color: white;
+    transform: scale(1.1);
+}
+
+/* 鼠标悬停 */
+.page-link:hover {
+    background-color: var(--bs-tertiary-bg);
+    color: var(--bs-primary);
+    transform: translateY(-2px);
+}
+
+/* 禁用状态 */
+.page-item.disabled .page-link {
+    background-color: transparent;
+    opacity: 0.5;
+}
