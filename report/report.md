@@ -20,7 +20,21 @@
 
 #### 数据抓取与清洗
 
-使用 Python 编写爬虫模块，针对特定数据源进行抓取。在处理阶段，设计了针对性的提取算法分离标题与正文，并清洗掉无语义的停用词。利用 NLP 工具 `jieba` 根据语义词性进行分词后，将 `seg_title` 和 `seg_content` 分别存储，为后续的高精度计算做准备。
+使用 Python 编写爬虫模块，针对特定数据源进行抓取。
+
+对每个主网站的“文档下载”栏目中的所有子网页的文件进行爬取。定义一个包括多个“文档下载”栏目的 URL 的列表，然后令程序遍历每个 URL。使用 Selenium 启动 Chrome 浏览器，访问网页，并提取 HTML 内容。先在解析后的 HTML 中找到所有子网页的网址，再在子网页的html中获取文件链接并开始下载。
+
+*  **获得主网站“文档下载”栏目的网址**：网站数量有限，故采用手动获取网址的方式，最后得到一个包含各个url的列表。
+*  **遍历栏目中子网页并下载文件**：通过 URL 列表获取每个栏目的 HTML 内容，程序将解析 HTML，寻找子网页的 URL。为处理可能因 JavaScript 动态加载而延迟呈现的内容，使用 Selenium 自动化模拟浏览器操作。获取到子网页的 HTML 内容后，再次使用 BeautifulSoup 解析，以便精准找到下载链接（通常是在 a 标签的 href 属性中）。收集到下载链接后，程序会开始下载相关文件，并将文件保存到指定本地路径。
+*  **制作json**：在下载完文件后，将文件的下载网址url和本地存储路径存进json文件，方便进一步操作
+*  **绕过反爬虫**：实际存在一些反爬虫的网站，对此采取了几种应对方法
+   *  **轮换使用 IP 地址**：使用代理池来变换 IP 地址，以避免频繁请求导致 IP 被封锁。这可以通过自动获取和管理多个代理来实现。
+   * **设计正常的请求头**：在请求中设置标准的 HTTP 请求头，包括 User-Agent、Referer 等信息，确保请求看起来像是来自真实用户的浏览器访问。
+   * **设置随机的访问频率**：为了避免检测到高频率的请求，程序将在请求之间设置随机延迟。这种做法更仿真，使得爬虫行为更接近于真实用户浏览网站的行为。
+*  **json处理**：获得的json并不直接与文件一一对应，存在重复、或没有对应json的情况，最后需要对json进行处理，删除重复项、找不到对应文件的json、找不到json的文件，实现一一对应。
+
+在处理阶段，设计了针对性的提取算法分离标题与正文，并清洗掉无语义的停用词。利用 NLP 工具 `jieba` 根据语义词性进行分词后，将 `seg_title` 和 `seg_content` 分别存储，为后续的高精度计算做准备。
+
 
 #### 伪分布式 HBase 模式设计
 
@@ -79,6 +93,50 @@
 ---
 
 ## 核心代码块
+
+### 数据爬虫
+
+`src/crawler/spider.py` 中抓取文件的核心逻辑：
+
+```python
+class USTCCrawler:
+    def download_file(self, file_url, referer_url):
+        filename = self.sanitize_filename(os.path.basename(file_url))
+        if len(filename) > 200:
+            filename = filename[-200:]   
+        save_path = self.files_dir / filename
+        
+        # 检查是否已下载
+        if save_path.exists():
+            logger.info(f"文件已存在，跳过: {filename}")
+            # 确保记录在 metadata 中
+            self._add_to_metadata(file_url, filename)
+            return
+
+        try:
+            logger.info(f"正在下载: {file_url}")
+            response = requests.get(
+                file_url, 
+                timeout=30, 
+                headers=self._get_random_headers(), 
+                proxies=self._get_proxy(),
+                stream=True
+            )
+            
+            if response.status_code == 200:
+                with open(save_path, 'wb') as f:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        f.write(chunk)
+                logger.info(f"下载成功: {filename}")
+                self._add_to_metadata(file_url, filename)
+            else:
+                logger.error(f"下载失败 {response.status_code}: {file_url}")
+                
+        except Exception as e:
+            logger.error(f"下载异常: {e}")
+```
+
+
 
 ### 数据清洗与提取 (Python)
 

@@ -10,7 +10,7 @@ HadoopSearchEngine/
 ├── run_workflow.sh             # [脚本] 一键运行完整数据处理工作流（ETL -> HBase导入 -> MapReduce索引构建）
 ├── stop_services.sh            # [脚本] 一键停止所有 Hadoop/HBase 相关服务
 ├── bin/                        # [目录] 存放 ETL 过程的日志文件
-├── logs/                        # [目录] 存放编译后的 Java MapReduce 类文件或 JAR 包
+├── logs/                       # [目录] 存放编译后的 Java MapReduce 类文件或 JAR 包
 ├── config/                     # [目录] 配置文件
 │   └── stopwords_full.txt      #        中英文停用词表，用于分词时过滤无意义词汇
 ├── data/                       # [目录] 数据存储
@@ -21,7 +21,7 @@ HadoopSearchEngine/
 │       └── files/              #        待处理的实际文件 (PDF, Word, Excel 等)
 └── src/                        # [源码] 核心源代码
     ├── settings.py             #        全局配置文件（路径、HBase 表名等）
-    ├── crawler/                    #    [模块] 数据爬虫
+    ├── crawler/                # [模块] 数据爬虫
     │   ├── spider.py           #        爬虫：爬取 PDF/Word/Excel
     ├── etl/                    #        [模块] Extract-Transform-Load 数据清洗与加载
     │   ├── data_extractor.py   #        文档解析器：读取 PDF/Word/Excel，进行分词和清洗
